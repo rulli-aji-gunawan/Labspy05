@@ -44,7 +44,7 @@ while True:
 
     elif c.lower() == 'h':
         print("Hapus Daftar")
-        nim = int(input("NIM: "))
+        nim = int(input("Masukkan NIM: "))
         if nim in daftar.keys():
             del daftar[nim]
             print('\nData dengan NIM {0} telah berhasil dihapus dari Daftar Nilai'.format(nim))

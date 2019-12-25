@@ -3,34 +3,43 @@ Tugas Praktikum 5
   
 Langkah Pengerjaan :  
 1. Buat Flowchart ALgoritma  
-2. Buat dictionary kosong dan penomoran daftar dimulai dari 0  
+2. Buat dictionary kosong  
   
-![EmptyDictionary](https://user-images.githubusercontent.com/56189248/70879238-2c5e9280-1ff7-11ea-8b52-15672f94b9f8.png)Welcome to the Labspy05 wiki!  
+![EmptyDictionary](https://user-images.githubusercontent.com/56189248/71427867-67e01780-26ef-11ea-99a3-24f2499f7605.png)  
   
 3. Gunakan printah perulangan dan dan statement if untuk opsi perintah  
 4. Untuk program opsi perintah (K)eluar , (L)ihat , (T)ambah, gunakan program seperti berikut : 
   
-![KeluarLihatTambah](https://user-images.githubusercontent.com/56189248/70880113-61b8af80-1ffa-11ea-9f17-9d1ea48b2a0f.png)  
+![KeluarLihatTambah](https://user-images.githubusercontent.com/56189248/71428019-927ea000-26f0-11ea-80eb-296c62b73de1.png)  
   
 5. Untuk program opsi perintah (U)bah dan (H)apus, gunakan program seperti berikut : 
   
-![UbahHapus](https://user-images.githubusercontent.com/56189248/70880294-076c1e80-1ffb-11ea-8b2c-580ac183a28c.png)  
+![UbahHapus](https://user-images.githubusercontent.com/56189248/71428306-9a3f4400-26f2-11ea-84bf-9ae4758a0395.png)  
   
 6. Untuk program opsi perintah (C)ari, gunakan program seperti berikut :  
   
-![Cari](https://user-images.githubusercontent.com/56189248/70880500-c1638a80-1ffb-11ea-9d19-207d853fb733.png) 
+![Cari](https://user-images.githubusercontent.com/56189248/71428410-39fcd200-26f3-11ea-855f-5f0b4548fabf.png) 
   
 Berikut contoh hasil output untuk opsi (T)ambah dan (L)ihat :  
   
-![Output1](https://user-images.githubusercontent.com/56189248/70880813-edcbd680-1ffc-11ea-9138-dfa33ec51eef.png)  
+![OutputTambahLihat](https://user-images.githubusercontent.com/56189248/71428753-67e31600-26f5-11ea-940a-b3cd24e9a79c.png)  
   
 Berikut contoh hasil output untuk opsi (U)bah :  
   
-![OutputUbah](https://user-images.githubusercontent.com/56189248/70880979-967a3600-1ffd-11ea-9097-eaec469aa3b5.png)  
+![OutputUbah](https://user-images.githubusercontent.com/56189248/71428907-67974a80-26f6-11ea-94b0-9ea181d3c58b.png)  
   
 Berikut contoh hasil output untuk opsi (C)ari :  
   
-![OutputCari](https://user-images.githubusercontent.com/56189248/70881123-24562100-1ffe-11ea-8c0f-60e5f4e8d8dd.png)  
+![OutputCari](https://user-images.githubusercontent.com/56189248/71429081-6adf0600-26f7-11ea-9850-1028fc2aba4d.png)  
   
 Berikut contoh hasil output untuk opsi (H)apus :  
   
+![OutputHapus](https://user-images.githubusercontent.com/56189248/71429369-d8d7fd00-26f8-11ea-97a4-bb5cf3989e94.png)  
+  
+Berikut contoh hasil output untuk opsi (K)eluar :  
+  
+![OutputKeluar](https://user-images.githubusercontent.com/56189248/71429589-e5108a00-26f9-11ea-9dda-06f6bcc59765.png)  
+  
+**Sekian dan terima kasih.**  
+  
+
